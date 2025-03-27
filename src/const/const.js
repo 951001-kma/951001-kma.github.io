@@ -1,18 +1,38 @@
 export const studies = [
   {
-    title: "Técnico en desarrollo de software",
-    corporation: "SENA - Montería (Córdoba) ",
-    date: "02/2019 – 12/2019",
+    title: "Estuadiante de Ingeniería de Sistemas e Informática",
+    corporation: "Universidad Continental",
+    date: "2022-Actualidad",
   },
   {
-    title: "Desarrollador Front-end React Js",
-    corporation: "Alura Latam - Remoto",
-    date: "04/2023 – 09/2023",
+    title: "Técnico en Electrotécnia Industrial",
+    corporation: "TECSUP ",
+    date: "2012-2015",
   },
   {
-    title: "Curso profesional de React Js",
-    corporation: "Código facilito - Remoto",
-    date: "04/2023 – 04/2023",
+    title: "Especialista en Diseño y Configuración de Redes Industriales",
+    corporation: "Rockwell Automation ",
+    date: "2018",
+  },
+  {
+    title: "Especialista en Diseño e implementación de Redes LAN/WLAN/WAN",
+    corporation: "TECSUP",
+    date: "2019",
+  },
+  {
+    title: "Especialista en Programa Internacional en Automatización y Control de Procesos",
+    corporation: "BSG Institute",
+    date: "2021",
+  },
+    {
+    title: "Especialista en Programación y Desarrollo con Python",
+    corporation: "Universidad Continental",
+    date: "2022",
+  },
+  {
+    title: "Especialista en Base de Datos",
+    corporation: "CodiGO by Tecsup",
+    date: "2023",
   },
 ];
 
@@ -20,24 +40,24 @@ export const IconKeys = {
   html: "html",
   css: "css",
   javaScript: "javaScript",
-  react: "react",
+  // react: "react",
   astro: "astro",
-  materialUi: "materialUi",
-  nextjs: "nextjs",
-  redux: "redux",
-  styled: "styled",
+  // materialUi: "materialUi",
+  // nextjs: "nextjs",
+  // redux: "redux",
+  // styled: "styled",
   tailwind: "tailwind",
   radix: "radix",
-  reactQuery: "reactQuery",
+  // reactQuery: "reactQuery",
   typeScript: "typeScript",
-  zustand: "zustand",
-  git: "git",
+  // zustand: "zustand",
+  // git: "git",
   github: "github",
-  stripe: "stripe",
-  shadcn: "shadcn",
-  nodejs: "nodejs",
-  mongodb: "mongodb",
-  vite: "vite",
+  // stripe: "stripe",
+  // shadcn: "shadcn",
+  // nodejs: "nodejs",
+  // mongodb: "mongodb",
+  // vite: "vite",
   // here add more icon keys
 };
 
@@ -62,40 +82,40 @@ export const skills = [
     title: "Tailwindcss",
     icon: IconKeys.tailwind,
   },
-  {
-    title: "React Js",
-    icon: IconKeys.react,
-  },
-  {
-    title: "Next Js",
-    icon: IconKeys.nextjs,
-  },
-  {
-    title: "Git",
-    icon: IconKeys.git,
-  },
+  // {
+  //   title: "React Js",
+  //   icon: IconKeys.react,
+  // },
+  // {
+  //   title: "Next Js",
+  //   icon: IconKeys.nextjs,
+  // },
+  // {
+  //   title: "Git",
+  //   icon: IconKeys.git,
+  // },
 
   {
     title: "Github",
     icon: IconKeys.github,
   },
-  {
-    title: "Material UI",
-    icon: IconKeys.materialUi,
-  },
+  // {
+  //   title: "Material UI",
+  //   icon: IconKeys.materialUi,
+  // },
 
-  {
-    title: "Redux Js",
-    icon: IconKeys.redux,
-  },
-  {
-    title: "Styled Components",
-    icon: IconKeys.styled,
-  },
-  {
-    title: "Node Js",
-    icon: IconKeys.nodejs,
-  },
+  // {
+  //   title: "Redux Js",
+  //   icon: IconKeys.redux,
+  // },
+  // {
+  //   title: "Styled Components",
+  //   icon: IconKeys.styled,
+  // },
+  // {
+  //   title: "Node Js",
+  //   icon: IconKeys.nodejs,
+  // },
   {
     title: "TypeScript",
     icon: IconKeys.typeScript,
@@ -105,27 +125,27 @@ export const skills = [
     icon: IconKeys.radix,
   },
 
-  {
-    title: "React Query",
-    icon: IconKeys.reactQuery,
-  },
-  {
-    title: "Vite",
-    icon: IconKeys.vite,
-  },
-  {
-    title: "Zustand",
-    icon: IconKeys.zustand,
-  },
+  // {
+  //   title: "React Query",
+  //   icon: IconKeys.reactQuery,
+  // },
+  // {
+  //   title: "Vite",
+  //   icon: IconKeys.vite,
+  // },
+  // {
+  //   title: "Zustand",
+  //   icon: IconKeys.zustand,
+  // },
 
-  {
-    title: "Shadcn UI",
-    icon: IconKeys.shadcn,
-  },
-  {
-    title: "Mongo Db",
-    icon: IconKeys.mongodb,
-  },
+  // {
+  //   title: "Shadcn UI",
+  //   icon: IconKeys.shadcn,
+  // },
+  // {
+  //   title: "Mongo Db",
+  //   icon: IconKeys.mongodb,
+  // },
 ];
 
 export const projects = [
