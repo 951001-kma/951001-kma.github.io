@@ -149,6 +149,7 @@ export const skills = [
 ];
 
 export const projects = [
+  /*
   {
     img: "../../../img/ecommerce-stripe-2.webp",
     title: "Ecommerce Stripe",
@@ -322,6 +323,7 @@ export const projects = [
       },
     ],
   },
+  */
   {
     img: "../../../img/tasks-manager.webp",
     title: "Tasks Manager",
