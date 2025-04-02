@@ -120,31 +120,22 @@ El siguiente código corresponde a la sección del **footer** (pie de página) d
     <div class="container-footer">
       <h2 class="title-contact" id="contacto">Contacto</h2>
       <div class="container-redes">
-        <a href="https://wa.me/+51932704253" target="_blank">
+        <a href="https://wa.me/( Ingresa tu numero telefónico ) " target="_blank">
           <li class="li-contact">
             <i class="fa-brands fa-whatsapp icon-whatsapp"></i>
             <p>Whatsapp</p>
           </li>
         </a>
 
-        <a href="https://951001-kma.github.io/" target="_blank">
+        <a href="( Ingresa la URL de tu pagina de Github ) " target="_blank">
           <li class="li-contact">
             <i class="fa-brands fa-github"></i>
             <p>Github</p>
           </li>
         </a>
 
-        <!--
-        <a href="https://www.instagram.com/osnaider_m19/" target="_blank">
-          <li class="li-contact">
-            <i class="fa-brands fa-instagram"></i>
-            <p>Instagram</p>
-          </li>
-        </a>
-        -->
-
         <a
-          href="https://www.linkedin.com/in/kevin-oscar-mamani-arredondo-9b1447b7"
+          href="( Ingresa la URL de tu pagina de Linkedin )"
           target="_blank"
         >
           <li class="li-contact">
