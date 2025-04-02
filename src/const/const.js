@@ -66,10 +66,6 @@ export const skills = [
     title: "Astro",
     icon: IconKeys.astro,
   },
-  {
-    title: "Tailwindcss",
-    icon: IconKeys.tailwind,
-  },
 
   // {
   //   title: "Git",
@@ -84,10 +80,6 @@ export const skills = [
   {
     title: "TypeScript",
     icon: IconKeys.typeScript,
-  },
-  {
-    title: "Radix UI",
-    icon: IconKeys.radix,
   },
 
    {
