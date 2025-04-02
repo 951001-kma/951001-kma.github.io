@@ -101,7 +101,7 @@ export const projects = [
   {
     img: "../../../img/Portafolio.png",
     title: "Portafolio",
-    link: "https://github.com/951001-kma/951001-kma.github.io",
+    link: "https://task-manager-ecru-chi.vercel.app/dashboard",
     description: `Proyecto para iniciar a desarrollar un portafolio en Github  `,
     technologies: [
       {
