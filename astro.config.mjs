@@ -5,12 +5,7 @@ import { defineConfig } from "astro/config";
 // If you want to remove vercel from your project you can do npm uninstall vercel
 export default defineConfig({
   site: 'https://951001-kma.github.io',
-  //output: "server",
-  //adapter: vercel({
-  //  webAnalytics: {
-  //    enabled: true,
-  //  },
-  //}),
+  base: 'Portafolio',
 });
 
 //If you don't have vercel the configuration will be empty
