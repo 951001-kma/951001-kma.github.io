@@ -91,7 +91,7 @@ export const skills = [
 export const projects = [
   
   {
-    img: "../../../img/Portafolio.png",
+    img: "../../../img/Portafolio.webp",
     title: "Portafolio",
     link: "https://github.com/951001-kma/Portafolio",
     description: `Proyecto para iniciar a desarrollar un portafolio en Github  `,
